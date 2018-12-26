@@ -1,5 +1,6 @@
 # Group-Chatroom
 server based on Linux TCP socket; client based on QT QTcpSocket; database MySQL
+version 1.0 to be uploaded
 
 ## Supporting Functions
 * Show Old messages
